@@ -1,4 +1,5 @@
-# Import shit
+''' Website "Rabbithole" Program. Finds first URL on a given website, finds next URL on the given URL, rinse and repeat. '''
+# Import Stuff
 import requests  
 from requests_html import HTMLSession
 from urllib.parse import urlparse, urljoin
