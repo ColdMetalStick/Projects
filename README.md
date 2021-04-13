@@ -1,2 +1,2 @@
-# Python-Projects
-View my projects on Python!
+# Projects
+View my all of my projects!
